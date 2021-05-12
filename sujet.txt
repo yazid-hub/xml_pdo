@@ -1,0 +1,29 @@
+Sujet : Lecture et injection de données entre XML et MySql.
+
+1. Créer une base de données composée de deux tables  
+	Equipe : idequipe, designation, couleur, division 
+	Joueur : idjoueur, nom, prenom, poste, numero, idequipe
+
+	remplissez cette base avec deux équipes et trois joueurs par équipe.
+
+	La base de données est nommée : foot
+
+2. Créer fichier php qui permet de : 
+	- se connecter à la base de données 
+	- lire les données et les afficher selon ce format : 
+
+		Division : nom de la division 
+		Equipe : désignation, couleur 
+		liste des joueurs dans un tableau html 
+			nom 	prénom 		poste 		numéro 
+
+		Division : nom de la division 
+		Equipe : désignation, couleur 
+		liste des joueurs dans un tableau html 
+			nom 	prénom 		poste 		numéro 
+Utilisez PDO, avec des function et même créer une classe 
+
+	Dans l'index : 
+		on crée un bouton : lire les données de la BDD 
+		faisant appel au fichier d'affichage 
+3. 

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<listeequipe>
+	<equipe>
+		<division>la liga</division>
+		<designation>barça</designation>
+		<couleur>bleu</couleur>
+	<joueur>
+		<nom>messi</nom>
+		<prenom>lionel</prenom>
+		<poste>attaquant</poste>
+		<numero>10</numero>
+	</joueur>
+	<joueur>
+		<nom>antsu</nom>
+		<prenom>fati</prenom>
+		<poste>attaquant</poste>
+		<numero>9</numero>
+	</joueur>
+	</equipe>
+	<equipe>
+		<division>la liga</division>
+		<designation>real</designation>
+		<couleur>blanc</couleur>
+	<joueur>
+		<nom>christiano</nom>
+		<prenom>ronaldo</prenom>
+		<poste>attaquant</poste>
+		<numero>7</numero>
+	</joueur>
+	</equipe>
+</listeequipe>
